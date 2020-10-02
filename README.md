@@ -1,2 +1,2 @@
-# Таня + Денись
-Love story
+# DeVaGr
+Empty template
